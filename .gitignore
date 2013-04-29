@@ -1,0 +1,12 @@
+# eclipse project files #
+.classpath
+.project
+.settings/
+
+# java class files #
+*.class
+
+# package Files #
+*.jar
+*.war
+*.ear
