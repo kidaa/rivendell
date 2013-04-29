@@ -3,6 +3,9 @@
 .project
 .settings/
 
+# maven target files #
+target/
+
 # java class files #
 *.class
 
